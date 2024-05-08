@@ -1,6 +1,6 @@
 {
   "name": "swagger-express-mw",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Swagger loader and middleware for express",
   "keywords": [
     "swagger",
@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "jfanjoy/swagger-node-runner"
+    "swagger-node-runner": "github:jfanjoy/swagger-node-runner#v0.7.5"
   },
   "devDependencies": {
     "lodash": "^4.17.15",
